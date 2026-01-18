@@ -5,4 +5,4 @@ This is a demo of git and git hub!
 shradha khapra
 
 # student
-Delta student
+Delta students 
